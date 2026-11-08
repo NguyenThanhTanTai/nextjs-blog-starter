@@ -1,0 +1,32 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.title {
+  font-size: 32px;
+  color: #2563eb;
+  margin-bottom: 20px;
+}
+
+.post {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.postTitle {
+  font-size: 22px;
+  margin-bottom: 8px;
+}
+
+.date {
+  color: gray;
+  font-size: 14px;
+}
+
+.content {
+  line-height: 1.7;
+}
